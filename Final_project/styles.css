@@ -1,0 +1,51 @@
+body{
+    font-family: 'Pacifico', 'Times New Roman', Times, serif;
+    background-color: rgb(170, 65, 65);
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.container{
+    background-color:rgba(2, 116, 53, 0.781);    
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 30px solid rgba(214, 184, 50, 0.849);
+    border-radius: 50px;
+}
+
+h1{
+    text-align: center;
+}
+form {
+    text-align: center;
+    padding: 0.2%;
+}
+
+#question {
+    height: 30px;
+    width: 200px;
+    text-align: center;
+}
+
+#answer{
+    height: 350px;
+    width: 350px;
+    text-align: center;
+
+}
+
+button {
+    color: white;
+    background-color: #13aeb91c;
+    height: 50px;
+    width: 80px;
+}
+
+.button:hover{
+    color:#0d0c0e;
+    background-color: white;
+}
+.size {
+    width: 300px;
+    height: 500px;
+}
